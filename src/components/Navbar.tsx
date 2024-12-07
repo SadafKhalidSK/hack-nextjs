@@ -5,7 +5,7 @@ import React from 'react'
 export default function Navbar() {
   return (
     <div>
-      <nav className="bg-tealCustom p-4">
+      <nav className="bg-black p-4">
         <div className="container mx-auto flex justify-between item-center">
         <div className="text-red-700 text-xl font-semibold">
 
@@ -21,7 +21,7 @@ export default function Navbar() {
 </div>
 <div><button
   type="submit"
-  className= "bg-white text-tealCustom px-4 py-1 rounded-lg font-bold">submit</button>
+  className= "bg-white text-black px-4 py-1 rounded-lg font-bold">submit</button>
 </div>
 
             </div>
