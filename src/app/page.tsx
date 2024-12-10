@@ -577,10 +577,10 @@ Universe</h2></div>
 
   <div className="font-montserrat text-[#252B42]  items-start w-[247px] h-[60px] text-[20px] font-bold ">
   Loudest à la Madison #1 
-  (L'integral)</div>
+  (Lintegral)</div>
   <div className="font-montserrat text-[#737373]   w-[280px] h-[60px] text-[14px] font-bold ">
   We focus on ergonomics and meeting 
-you where you work. It's only a 
+you where you work. Its only a 
 keystroke away.</div>
 
   <div className="flex w-[299px] h-[46px] justify-between  ">
@@ -622,10 +622,10 @@ keystroke away.</div>
   
   <div className="font-montserrat text-[#252B42]  items-start w-[247px] h-[60px] text-[20px] font-bold ">
   Loudest à la Madison #1 
-  (L'integral)</div>
+  (L &apos;integral)</div>
   <div className="font-montserrat text-[#737373]   w-[280px] h-[60px] text-[14px] font-bold ">
   We focus on ergonomics and meeting 
-you where you work. It's only a 
+you where you work. It &apos;s only a 
 keystroke away.</div>
 
   <div className="flex w-[299px] h-[46px] justify-between  ">
@@ -668,10 +668,10 @@ keystroke away.</div>
   
   <div className="font-montserrat text-[#252B42]  items-start w-[247px] h-[60px] text-[20px] font-bold ">
   Loudest à la Madison #1 
-  (L'integral)</div>
+  (L&apos;integral)</div>
   <div className="font-montserrat text-[#737373]   w-[280px] h-[60px] text-[14px] font-bold ">
   We focus on ergonomics and meeting 
-you where you work. It's only a 
+you where you work. It&apos;s only a 
 keystroke away.</div>
 
   <div className="flex w-[299px] h-[46px] justify-between  ">
