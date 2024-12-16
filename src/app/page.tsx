@@ -1,8 +1,13 @@
 import Image from "next/image";
 import { Button } from "@/components/ui/button"
+import Navbar from "@/components/Navbar";
+import Header from "@/components/Header";
 export default function Home() {
   return (
     <div className=" flex-col h-[6197px] w-full">
+      <Header/>
+      <Navbar/>
+
       <div className="  relative h-[716px] w-full ">
       <Image
       src="/images/shop.jpg"
@@ -108,7 +113,8 @@ export default function Home() {
   <div className=" relative  flex mx-auto w-[1049px] h-[615px] mt-[60px] gap-[30px] ">
 
   <div className="w-[238px] h-[615px]  mx-auto  flex flex-col">
-  <div className="h-[427px] w-[238px]">
+  <div className="w-full sm:w-[238px] h-auto flex mx-auto">
+
   <Image
       src="/images/p1.png"
       alt="Responsive imageee"

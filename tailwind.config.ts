@@ -61,6 +61,9 @@ const config: Config = {
   			'2xl': '1536px',
   			custom: '1400px'
   		},
+		  fontFamily: {
+			montserrat: ['Montserrat', 'sans-serif'],
+		  },
   		borderRadius: {
   			lg: 'var(--radius)',
   			md: 'calc(var(--radius) - 2px)',
