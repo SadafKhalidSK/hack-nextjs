@@ -4,7 +4,7 @@ import Navbar from "@/components/Navbar";
 import Header from "@/components/Header";
 export default function Home() {
   return (
-    <div className=" flex-col h-[6197px] w-full">
+    <div className=" flex-col h-[full] w-full">
       <Header/>
       <Navbar/>
 
@@ -716,3 +716,5 @@ keystroke away.</div>
   </div>
   )
 }
+
+
